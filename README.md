@@ -18,17 +18,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-### 🚀 Things I've built
-
-<div align="center">
-  <a href="https://github.com/aka645251-ai/daily-video-uploader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aka645251-ai&repo=daily-video-uploader&theme=tokyonight" alt="daily-video-uploader" />
-  </a>
-  <a href="https://github.com/aka645251-ai/token-helper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aka645251-ai&repo=token-helper&theme=tokyonight" alt="token-helper" />
-  </a>
-</div>
-
 ### 🛠 Tools I work with
 
 <p>
@@ -41,13 +30,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 GitHub stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aka645251-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aka645251-ai&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka645251-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</div>
+### 🌐 Find me
+
+<p align="center">
+  <a href="https://www.instagram.com/akashak69116"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/share/1DiWriFnsT/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://youtube.com/@newspinchindia4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
