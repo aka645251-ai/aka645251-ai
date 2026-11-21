@@ -1,25 +1,40 @@
-# Hi, I'm Akash 👋
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="Akash" />
+</div>
 
-I build an automated content pipeline that turns one idea into finished videos, every single day.
+<h1 align="center">Hi, I'm Akash 👋</h1>
 
-## What I run
+<div align="center">
+  <img src="assets/dp.png" width="140" alt="Akash" style="border-radius: 50%;" />
+</div>
 
-- 🎬 **YouTube** — English story videos for a USA audience, daily
-- 📱 **Instagram** — Hindi story reels at [@akashak69116](https://www.instagram.com/akashak69116)
-- ⚙️ **Automation** — a Python + GitHub Actions pipeline that writes, renders and publishes each day's videos with no manual steps
+<p align="center">
+  I build apps and automation that quietly run on their own, every single day.
+</p>
 
-## Projects
+---
 
-| Repo | What it does |
-| --- | --- |
-| [daily-video-uploader](https://github.com/aka645251-ai/daily-video-uploader) | End-to-end daily pipeline: script → visuals → voiceover → render → publish. Runs itself every day on GitHub Actions |
-| [token-helper](https://github.com/aka645251-ai/token-helper) | OAuth helper that keeps the pipeline's Google/YouTube tokens fresh |
+### 🚀 Things I've built
 
-## Stack
+- 🔁 [daily-video-uploader](https://github.com/aka645251-ai/daily-video-uploader) : a pipeline that runs itself end to end, one video a day
+- 🌐 [token-helper](https://github.com/aka645251-ai/token-helper) : a companion web page for the pipeline
 
-`Python` · `FFmpeg` · `Google Drive API` · `YouTube Data API` · `GitHub Actions`
+### 🛠 Tools I work with
 
-## Connect
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-- 📸 Instagram: [@akashak69116](https://www.instagram.com/akashak69116)
-- ▶️ YouTube: channel link coming soon
+### 📈 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aka645251-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka645251-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</div>
+
+---
+
+<p align="center"><i>⚡ One idea in, one video out, every day.</i></p>
